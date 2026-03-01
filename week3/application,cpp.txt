@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+main(){
+int one day=24 hours;
+int one hour=3600 seconds;
+int one minute=60 seconds;
+int N;
+cout<<"enter no of hours :";
+cin >>N;
+int seconds;
+seconds=hours*3600;
+cout<<N<<"is equivalent to"<<seconds<<"seconds";
+}

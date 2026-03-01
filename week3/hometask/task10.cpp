@@ -1,0 +1,62 @@
+#include<iostream>
+using namespace std;
+main(){
+int a;
+cout<<"number 1:";
+cin>>a;
+int b;
+cout<<"number 2:";
+cin>>b;
+int c;
+cout<<"number 3:";
+cin>>c;
+int d;
+cout<<"number 4:";
+cin>>d;
+int e;
+cout<<"number 5:";
+cin>>e;
+int f;
+cout<<"number 6:";
+cin>>f;
+int g;
+cout<<"number 7:";
+cin>>g;
+int h;
+cout<<"number 8:";
+cin>>h;
+int i;
+cout<<"number 9:";
+cin>>i;
+int j;
+cout<<"number 10:";
+cin>>j;
+int k;
+cout<<"number 11:";
+cin>>k;
+int l;
+cout<<"number 12:";
+cin>>l;
+int m;
+cout<<"number 13:";
+cin>>m;
+int n;
+cout<<"number 14:";
+cin>>n;
+int o;
+cout<<"number 15:";
+cin>>o;
+int sum;
+sum=a+b+c+d+e;
+int multiply;
+multiply=f*g*h*i*j;
+int subtract;
+subtract=k-l-m-n-o;
+int p;
+p=sum+multiply;
+int r;
+r=p-subtract;
+cout<<"the final result is:"<<r;
+}
+
+

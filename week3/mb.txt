@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+main(){
+int one MB=1024 KB;
+int one KB=1024 bytes;
+int one Bytes=8 bits;
+cout<<"enter the size in megabytes:";
+cin>>size;
+}
