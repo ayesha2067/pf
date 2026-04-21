@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
 int number, even;
-cout<<"enter he number:";
+cout<<"enter the number:";
 cin>>number;
 even=number%2;
 if(even==0){
