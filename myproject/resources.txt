@@ -1,0 +1,19 @@
+6
+Wheat Flour (50kg)
+1800
+Food
+Drinking Water (L)
+33000
+Water
+First Aid Kits
+420
+Medical
+Relief Tents
+310
+Shelter
+Blankets
+900
+Shelter
+ORS / Medicine
+650
+Medical

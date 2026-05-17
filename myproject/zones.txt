@@ -1,0 +1,16 @@
+5
+Rajanpur
+92000
+Critical
+Muzaffargarh
+80000
+Critical
+D.G. Khan
+51000
+High
+Layyah
+40000
+High
+Bhakkar
+21000
+Moderate
